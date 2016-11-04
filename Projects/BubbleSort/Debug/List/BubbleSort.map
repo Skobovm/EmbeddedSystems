@@ -1,6 +1,6 @@
 ###############################################################################
 #
-# IAR ELF Linker V7.70.2.11706/W32 for ARM                03/Nov/2016  19:33:59
+# IAR ELF Linker V7.70.2.11706/W32 for ARM                03/Nov/2016  19:52:04
 # Copyright 2007-2016 IAR Systems AB.
 #
 #    Output file  =  
@@ -11,7 +11,6 @@
 #        C:\Users\Rufus\Documents\Courses\EmbeddedSystems\Projects\BubbleSort\Debug\Obj\BubbleSort.o
 #        C:\Users\Rufus\Documents\Courses\EmbeddedSystems\Projects\BubbleSort\Debug\Obj\hw_init.o
 #        C:\Users\Rufus\Documents\Courses\EmbeddedSystems\Projects\BubbleSort\Debug\Obj\interrupt.o
-#        C:\Users\Rufus\Documents\Courses\EmbeddedSystems\Projects\BubbleSort\Debug\Obj\lab1.o
 #        C:\Users\Rufus\Documents\Courses\EmbeddedSystems\Projects\BubbleSort\Debug\Obj\main.o
 #        C:\Users\Rufus\Documents\Courses\EmbeddedSystems\Projects\BubbleSort\Debug\Obj\misc.o
 #        C:\Users\Rufus\Documents\Courses\EmbeddedSystems\Projects\BubbleSort\Debug\Obj\print.o

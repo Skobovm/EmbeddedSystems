@@ -2009,9 +2009,6 @@
       <name>$PROJ_DIR$\src\interrupt.c</name>
     </file>
     <file>
-      <name>$PROJ_DIR$\src\lab1.s</name>
-    </file>
-    <file>
       <name>$PROJ_DIR$\src\main.c</name>
     </file>
     <file>

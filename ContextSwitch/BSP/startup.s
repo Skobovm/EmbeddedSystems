@@ -66,7 +66,7 @@ __vector_table
       DCD       DebugIrqHandler             ; Debug Monitor
       DCD       0                       
       DCD       TaskSwitch                  ; PendSV
-      DCD       SysTick_Handler           ; SysTick
+      DCD       SysTick_Handler             ; SysTick
 
       ; The STM32F401 specific interrupt vectors  Follow
       DCD     UnusedIrqHandler              ; WatchDog
